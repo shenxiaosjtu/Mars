@@ -2,3 +2,4 @@ hello
 world
 Yangzi River
 homepage
+new_message
